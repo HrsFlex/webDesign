@@ -1,0 +1,12 @@
+.hero-section {
+  height: 100vh;
+  background: linear-gradient(to right, #0056b3, #007bff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 80px;
+}
+
+.cta-section {
+  background: linear-gradient(to right, #007bff, #00bfff);
+}
